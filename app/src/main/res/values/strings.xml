@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TP5</string>
+    <string name="tvUse">Usuário</string>
+    <string name="tvSenha">Senha</string>
+    <string name="edtUse"></string>
+    <string name="edtSenha"></string>
+    <string name="rbtEdit">Editar</string>
+    <string name="rbtRegistrar">Registrar</string>
+    <string name="tvultimo">último jogo</string>
+    <string name="edtData"></string>
+    <string name="edtResultado"></string>
+    <string name="tvMehoplac">Melhor Placar</string>
+    <string name="edtMelhorPlac"></string>
+    <string name="rbtJogar">Jogar</string>
+    <string name="rbtResponder">Responder</string>
+    <string name="tvNome">Nome</string>
+    <string name="tvUsuario">Usuário</string>
+    <string name="tvSenhaN">Repita a Senha</string>
+    <string name="rbtSalvar">Salvar</string>
+</resources>
